@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "elixir@latest": {
+      "last_modified": "2024-05-12T16:19:40Z",
+      "resolved": "github:NixOS/nixpkgs/3281bec7174f679eabf584591e75979a258d8c40#elixir",
+      "source": "devbox-search",
+      "version": "1.16.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/86lzvqiqpym9z63gd7srvxln6iwqshwy-elixir-1.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/86lzvqiqpym9z63gd7srvxln6iwqshwy-elixir-1.16.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q7h6hb8ax0sm1liwidfv9lx1pjlaxy6z-elixir-1.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q7h6hb8ax0sm1liwidfv9lx1pjlaxy6z-elixir-1.16.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/iy41b4sjfamq03jcwxk12wfqpss6c8cb-elixir-1.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/iy41b4sjfamq03jcwxk12wfqpss6c8cb-elixir-1.16.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/f8sk9d93nvxc1lc7xf58fj7wgzpav2c3-elixir-1.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/f8sk9d93nvxc1lc7xf58fj7wgzpav2c3-elixir-1.16.2"
+        }
+      }
+    }
+  }
+}
